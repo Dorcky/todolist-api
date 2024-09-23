@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "app_id": "app_4a6905d9-a0ce-47b4-8b2d-3b9c5a1e1c69",
+      "org_id": "user_74c15e1f-222e-4f30-8f14-1d97e01c431e",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_4a6905d9-a0ce-47b4-8b2d-3b9c5a1e1c69.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_4a6905d9-a0ce-47b4-8b2d-3b9c5a1e1c69.git",
+      "name": "todolist-api",
+      "alias": "todolist-api"
+    },
+    {
+      "app_id": "app_ab0cd659-9054-4060-bdd6-203f657c877f",
+      "org_id": "user_74c15e1f-222e-4f30-8f14-1d97e01c431e",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_ab0cd659-9054-4060-bdd6-203f657c877f.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_ab0cd659-9054-4060-bdd6-203f657c877f.git",
+      "name": "my-todolist-api",
+      "alias": "my-todolist-api"
+    }
+  ]
+}
